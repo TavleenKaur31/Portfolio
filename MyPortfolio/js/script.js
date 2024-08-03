@@ -1,12 +1,12 @@
 //typing animation
 
-var typed = new Typed(".typing", {
-    strings: ["Web Developer"],
-    typeSpeed: 50,
-    backSpeed: 60,
-    backDelay: 100,
-    loop: true
-});
+// var typed = new Typed(".typing", {
+//     strings: ["Web Developer"],
+//     typeSpeed: 50,
+//     backSpeed: 60,
+//     backDelay: 100,
+//     loop: true
+// });
 
 
 
